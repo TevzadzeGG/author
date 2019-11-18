@@ -1,0 +1,45 @@
+/*header*/
+.navbar-light .navbar-brand{
+	color: #44c0c2;
+	font-family: 'Lobster', cursive;
+	font-size: 43px;
+	font-weight: 400;
+	line-height: 24px;
+}
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+	color: #44c0c2;
+}
+
+ul li a {
+	color: #484c55;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 24px;
+}
+
+ul li a:hover {
+	border-bottom: 5px solid #49cbcd;
+	background-color: #f8f9fb;
+
+}
+/*slider-top*/
+/*categories*/
+/*portfolio*/
+/*the-team*/
+/*prise*/
+/*what-clients-say*/
+/*footer*/
+
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+                                                        
